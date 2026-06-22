@@ -161,8 +161,6 @@ It is also about the strange comedy of systems that lie badly but with excellent
 
 ## Screenshots
 
-Screenshots will be added as the demo becomes more polished.
-
 ### Main Menu
 
 ![Main Menu](media/screenshots/MainMenu.png)
@@ -189,6 +187,8 @@ Screenshots will be added as the demo becomes more polished.
 
 
 ---
+### Other Details
+
 ![Signal Routing Minigame](media/screenshots/pauseMenu.png)
 
 ![Signal Routing Minigame](media/screenshots/TitleTask.png)
