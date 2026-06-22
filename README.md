@@ -165,23 +165,36 @@ Screenshots will be added as the demo becomes more polished.
 
 ### Main Menu
 
-![Main Menu](media/screenshots/main-menu.png)
+![Main Menu](media/screenshots/MainMenu.png)
 
 ### News Desk
 
-![News Desk](media/screenshots/news-desk.png)
+![News Desk](media/screenshots/ShiftDesk.png)
 
 ### Document Investigation
 
-![Document Investigation](media/screenshots/document-investigation.png)
+![Document Investigation](media/screenshots/Documents1.png)
+![Document Investigation](media/screenshots/Documents2.png)
 
 ### Nox Guidance Minigame
 
-![Nox Guidance Minigame](media/screenshots/nox-guide.png)
+![Nox Guidance Minigame](media/screenshots/NoxGuide1.png)
+![Nox Guidance Minigame](media/screenshots/NoxGuide2.png)
+
 
 ### Signal Routing Minigame
 
-![Signal Routing Minigame](media/screenshots/signal-routing.png)
+![Signal Routing Minigame](media/screenshots/SignalRoute1.png)
+![Signal Routing Minigame](media/screenshots/SignalRoute2.png)
+
+
+---
+![Signal Routing Minigame](media/screenshots/pauseMenu.png)
+
+![Signal Routing Minigame](media/screenshots/TitleTask.png)
+![Signal Routing Minigame](media/screenshots/FindEvidence.png)
+
+![Signal Routing Minigame](media/screenshots/MaraDialogue.png)
 
 ---
 
