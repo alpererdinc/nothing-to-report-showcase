@@ -183,10 +183,6 @@ Screenshots will be added as the demo becomes more polished.
 
 ![Signal Routing Minigame](media/screenshots/signal-routing.png)
 
-### Demo Summary
-
-![Demo Summary](media/screenshots/demo-summary.png)
-
 ---
 
 ## Demo Link
